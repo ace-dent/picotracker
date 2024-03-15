@@ -25,7 +25,7 @@ If applicable, add screenshots to help explain your problem.
 
 **Software (please complete the following information):**
  - OS: [e.g. macOS, Windows 11, Browser, etc.]
- - Version [e.g. v0.1]
+ - Version [e.g. v0.1.0b]
 
 **Additional context**
 Add any other context about the problem here.
