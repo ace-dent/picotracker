@@ -1,5 +1,5 @@
 # picotracker 
-Track boogs for Picotron (unofficial)
+Track boogs for [Picotron](https://www.lexaloffle.com/picotron.php) (unofficial)
 
 🐛🐜🐞
 
