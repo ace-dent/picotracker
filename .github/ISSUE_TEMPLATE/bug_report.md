@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**Describe the bug**
+**Describe the bug / feature**
 A clear and concise description of what the bug is.
 
 **To Reproduce**
@@ -25,7 +25,7 @@ If applicable, add screenshots to help explain your problem.
 
 **Software (please complete the following information):**
  - OS: [e.g. macOS, Windows 11, Browser, etc.]
- - Version [e.g. v0.1.0b]
+ - Version: [e.g. v0.1.0b]
 
 **Additional context**
 Add any other context about the problem here.
